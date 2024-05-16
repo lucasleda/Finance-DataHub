@@ -1,4 +1,4 @@
-Escolha da API: Optei por utilizar a API do Brasil API, que fornece dados sobre bancos, corretoras e participantes do PIX.
+Optei por utilizar a API do Brasil API, que fornece dados sobre bancos, corretoras e participantes do PIX.
 
 Extração de Tabela: Extraí dados de três tabelas diferentes: banco, corretora e participante do PIX. Cada uma dessas tabelas contém informações específicas sobre entidades financeiras no Brasil.
 
