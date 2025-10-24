@@ -92,7 +92,7 @@ Dados limpos e validados de bancos, corretoras e participantes do PIX;
 Um pipeline de ETL completo, pronto para uso em análises financeiras.
 
 👨‍💻 Autor e Direitos
-Desenvolvido por Lucas Leda
+Desenvolvido por Lucas Cardoso
 
 📫 Contato
 📧 weidner.lucas@gmail.com
