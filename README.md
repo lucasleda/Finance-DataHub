@@ -1,6 +1,6 @@
 # 💰 Finance-DataHub
 
-Um projeto desenvolvido por **Lucas Leda**, focado na **integração, tratamento e análise de dados financeiros** do Brasil.  
+Um projeto desenvolvido por **Lucas Cardoso**, focado na **integração, tratamento e análise de dados financeiros** do Brasil.  
 O sistema consome informações da **Brasil API**, tratando e armazenando dados de **bancos, corretoras e participantes do PIX** em um **banco de dados SQLite**.
 
 ---
